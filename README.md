@@ -18,26 +18,23 @@ Distributionally robust optimization is a technique for decision making under un
 
 ### Simulation 1: 50 realizations of the data collection algorithm for a mass spring system initialized with different numbers of samples
 
-![PDF1](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png)
+![PDF1](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png){width=75%}
 
-	<p align="center">
-	<img src="https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png" width="400" />
-	</p>
 The shaded area denotes the 25-th to 75-th trajectory distribution.
 
 ### Simulation 2: Mass spring system averaged from 50 realizations with sample number ranging from 1 to 10
 
-![PDF2](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig2.png)
+![PDF2](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig2.png){width=75%}
 
 ### Simulation 3: Relation between sample number and constraint violations within first four seconds in simulation 2
 
-![PDF3](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig3.png)
+![PDF3](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig3.png){width=75%}
 
 ### Simulation 4: Inverted pendulum system averaged from 10 realizations with Wasserstein ball radius ranging from 0.01 to 100
 
-![PDF4](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig4.png)
+![PDF4](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig4.png){width=75%}
 
 ### Simulation 5: Relation between Wasserstein ball radius and constraint violations within first two seconds in simulation 4
 
-![PDF5](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig5.png)
+![PDF5](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig5.png){width=75%}
 
