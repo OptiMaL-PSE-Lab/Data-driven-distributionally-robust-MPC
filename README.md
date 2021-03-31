@@ -18,7 +18,9 @@ Distributionally robust optimization is a technique for decision making under un
 
 ### Simulation 1: 50 realizations of the data collection algorithm for a mass spring system initialized with different numbers of samples
 
-![PDF1](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png){width=75%}
+![PDF1](https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png) {width=75%}
+
+<img src="https://github.com/OptiMaL-PSE-Lab/CDC2021/blob/master/fig/fig1.png" style="zoom:36%;" />
 
 The shaded area denotes the 25-th to 75-th trajectory distribution.
 
