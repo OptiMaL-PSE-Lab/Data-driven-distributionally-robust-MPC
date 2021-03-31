@@ -18,25 +18,23 @@ Distributionally robust optimization is a technique for decision making under un
 
 ### Simulation 1: 50 realizations of the data collection algorithm for a mass spring system initialized with different numbers of samples
 
-![](./fig/plot9.pdf)
+![PDF1](https://github.com/OptiMaL-PSE-Lab/CDC2021/fig/plot9.pdf)
 
 The shaded area denotes the 25-th to 75-th trajectory distribution.
 
 ### Simulation 2: Mass spring system averaged from 50 realizations with sample number ranging from 1 to 10
 
-![](./fig/plot2.pdf)
+![PDF2](https://github.com/OptiMaL-PSE-Lab/CDC2021/fig/plot2.pdf)
 
 ### Simulation 3: Relation between sample number and constraint violations within first four seconds in simulation 2
 
-![](./fig/plot4.pdf)
-
-
+![PDF3](https://github.com/OptiMaL-PSE-Lab/CDC2021/fig/plot4.pdf)
 
 ### Simulation 4: Inverted pendulum system averaged from 10 realizations with Wasserstein ball radius ranging from 0.01 to 100
 
-![](./fig/plot5.pdf)
+![PDF4](https://github.com/OptiMaL-PSE-Lab/CDC2021/fig/plot5.pdf)
 
 ### Simulation 5: Relation between Wasserstein ball radius and constraint violations within first two seconds in simulation 4
 
-![](./fig/plot7.pdf)
+![PDF5](https://github.com/OptiMaL-PSE-Lab/CDC2021/fig/plot7.pdf)
 
